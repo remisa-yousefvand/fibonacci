@@ -15,7 +15,7 @@ To calculate Nth Fibonacci number type: `./fibo N`
 ## Build
 
 ```bash
-git clone https://github.com/remisa-yousefvand/fibonacci.git
+git clone https://github.com/yousefvand/fibonacci.git
 cd fibonacci
 make
 ```
